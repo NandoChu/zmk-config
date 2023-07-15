@@ -33,7 +33,7 @@
 //                          | GUI |     |SHIFT|                                           |BKSP|BKSP| ALT |
                         bindings = <
    &kp TAB    &kp ESC      &trans       &kp UP       &trans       &trans                 &kp AT_SIGN        &kp UNDERSCORE   &kp MINUS     &trans      &kp DEL    &trans
-   &kp CAPS   &trans       &kp LEFT     &kp DOWN     &kp RIGHT    &trans                 &kp EXCLAMATION    &kp AMPERSAND    &kp DOLLAR    &kp PERCENT &kp ENTER &trans
+   &kp CAPS   &trans       &kp LEFT     &kp DOWN     &kp RIGHT    &trans                 &kp EXCLAMATION    &kp AMPERSAND    &kp DOLLAR    &kp PERCENT &kp ENTER &kp ENTER
    &trans     &trans       &trans       &trans       &trans       &trans                 &kp QMARK          &kp SLASH        &kp LPAR      &kp RPAR    &kp NUHS  &kp ESC
                                         &kp LGUI     &trans       &kp LSHFT              &kp BSPC           &kp BSPC         &kp RALT
                         >;
